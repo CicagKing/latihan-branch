@@ -1,1 +1,1 @@
-# ini adalah repository 
+#ku lelah
