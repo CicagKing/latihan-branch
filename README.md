@@ -1,1 +1,1 @@
-# Ku rasa cukup disini
+# ini adalah repository untuk latihan membuat branch baru di github
